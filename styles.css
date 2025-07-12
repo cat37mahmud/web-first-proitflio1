@@ -94,7 +94,21 @@ body {
   flex: 1;
   min-width: 100px;
 }
+.stats-section {
+  background-color: #f9faff;
+  padding: 60px 20px;
+  display: flex;
+  justify-content: center;
+}
 
+.stats-container {
+  background-color: #e6e9ff;
+  padding: 40px;
+  border-radius: 20px;
+  text-align: center;
+  width: 100%;
+  max-width: 900px;
+}
 .stat-item h3 {
   font-size: 32px;
   color: #4a4df4;
